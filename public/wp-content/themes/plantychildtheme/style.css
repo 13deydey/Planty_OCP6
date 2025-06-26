@@ -13,4 +13,12 @@
  */
 
 
+ @font-face {
+    font-family: 'Syne';
+    src: url('fonts/Syne-Regular.woff2') format('woff2'),
+         url('fonts/Syne-Regular.woff') format('woff'),
+         url('fonts/Syne-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
